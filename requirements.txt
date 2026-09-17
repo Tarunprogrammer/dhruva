@@ -1,0 +1,15 @@
+# Core Scientific & Processing
+numpy>=1.24.0
+pillow>=10.0.0
+scipy>=1.10.0
+
+# API & Web UI
+fastapi>=0.100.0
+uvicorn>=0.22.0
+streamlit>=1.25.0
+pydantic>=2.0.0
+python-multipart>=0.0.6
+
+# Testing
+pytest>=7.0.0
+requests>=2.31.0
